@@ -7,7 +7,7 @@ export default class AddAvatarFieldToUsers1588645363228
       'users',
       new TableColumn({
         name: 'avatar',
-        type: 'varhar',
+        type: 'varchar',
         isNullable: true,
       }),
     );
